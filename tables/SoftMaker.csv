@@ -1,0 +1,5 @@
+SoftMaker product,Equivalent Microsoft product,Platforms,File formats
+TextMaker,Word,"Win32, Win64, macOS, Linux, Android",".docx, .doc, .rtf, .odt, .tmd, .tmdx, .pwd, .txt, .sxw (import only), .pdf (export)"
+PlanMaker,Excel,"Win32, Win64, macOS, Linux, Android",".xlsx, .xls, .csv, .pmd, .pmdx, .ods (import), .rtf, .dbf, .txt, .slk, .dif, .pdf (export)"
+Presentations,PowerPoint,"Win32, Win64, macOS, Linux, Android",".pptx, .pps, .ppt, .ppsx, .prd, .prdx, .rtf, Export: .png, .jpg, Video and .pdf"
+BasicMaker,VBA (limited),"Win32, Win64",".bas, .txt"
